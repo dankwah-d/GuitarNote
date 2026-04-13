@@ -12,7 +12,7 @@ Users have the ability to
 
 <h2>ERD Diagram</h2>
 <p>This is how the database is organized</p>
-[GuitarNote ERD.pdf](https://github.com/user-attachments/files/26675586/GuitarNote.ERD.pdf)
+<img width="1128" height="746" alt="image" src="https://github.com/user-attachments/assets/1a055321-f59f-4c4e-9638-7e933f372584" />
 
 <h2>Relation table</h2>
-[3nf relations guitarnote.pdf](https://github.com/user-attachments/files/26675594/3nf.relations.guitarnote.pdf)
+<img width="1251" height="668" alt="image" src="https://github.com/user-attachments/assets/a154b9c9-e33d-404d-a514-8904289b2cdf" />
