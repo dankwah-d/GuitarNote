@@ -15,4 +15,5 @@ Users have the ability to
 <img width="1128" height="746" alt="image" src="https://github.com/user-attachments/assets/1a055321-f59f-4c4e-9638-7e933f372584" />
 
 <h2>Relation table</h2>
-<img width="1251" height="668" alt="image" src="https://github.com/user-attachments/assets/a154b9c9-e33d-404d-a514-8904289b2cdf" />
+<img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/1730ccd9-197c-4b5c-adc6-4c5cdd8a6c3d" />
+
