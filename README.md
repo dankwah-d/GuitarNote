@@ -12,7 +12,8 @@ Users have the ability to
 
 <h2>ERD Diagram</h2>
 <p>This is how the database is organized</p>
-<img width="1128" height="746" alt="image" src="https://github.com/user-attachments/assets/1a055321-f59f-4c4e-9638-7e933f372584" />
+<img width="1140" height="576" alt="image" src="https://github.com/user-attachments/assets/34773ad5-cb17-4bec-874d-e1ab80b63af5" />
+
 
 <h2>Relation table</h2>
 <img width="884" height="666" alt="image" src="https://github.com/user-attachments/assets/1730ccd9-197c-4b5c-adc6-4c5cdd8a6c3d" />
