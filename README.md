@@ -9,3 +9,10 @@ Users have the ability to
 <li>Search chords</li> 
 <li>Save favorite chords</li>
 </ul>
+
+<h2>ERD Diagram</h2>
+<p>This is how the database is organized</p>
+[GuitarNote ERD.pdf](https://github.com/user-attachments/files/26675586/GuitarNote.ERD.pdf)
+
+<h2>Relation table</h2>
+[3nf relations guitarnote.pdf](https://github.com/user-attachments/files/26675594/3nf.relations.guitarnote.pdf)
